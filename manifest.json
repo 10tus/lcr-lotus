@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LCR",
+  "name": "Lotto Character Recognition Tool",
   "icons": [
     {
       "src": "favicon.ico",
